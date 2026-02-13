@@ -14,7 +14,7 @@
 	<Description DefaultValue="Transponha acordes automaticamente no slide atual do PowerPoint."/>
 
 	<IconUrl DefaultValue="https://maxwellbritox.github.io/Transpositor/assets/icon-32.png"/>
-	<HighResolutionIconUrl DefaultValue="https://maxwellbritox.github.io/Transpositor/assets/icon-80.png"/>
+	<HighResolutionIconUrl DefaultValue="https://maxwellbritox.github.io/Transpositor/assets/icon-64.png"/>
 	<SupportUrl DefaultValue="https://maxwellbritox.github.io/Transpositor/support.html"/>
 
 	<AppDomains>
